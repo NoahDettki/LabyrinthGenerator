@@ -3,7 +3,7 @@
     "HEIGHT": 50,
     "START": [0, 0],
     "DEST": [49, 49],
-    "CON_PROB": 0.6,
+    "CON_PROB": 0.7,
     "MIN_TUN_DIS": 3,
     "MAX_TUN_DIS": 10,
     "LOOSE_ENDS": 5
