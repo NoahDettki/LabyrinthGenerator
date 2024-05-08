@@ -1,8 +1,8 @@
 {
-    "WIDTH": 50,
-    "HEIGHT": 50,
-    "START": [0, 0],
-    "DEST": [49, 49],
+    "WIDTH": 30,
+    "HEIGHT": 30,
+    "START": [29, 29],
+    "DEST": [0, 0],
     "CON_PROB": 0.7,
     "MIN_TUN_DIS": 3,
     "MAX_TUN_DIS": 10,
