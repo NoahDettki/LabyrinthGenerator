@@ -3,6 +3,7 @@ v1.0
 
 ## Description
 This little script generates random labyrinths containing tunnel connections to make solving a little more interesting.
+![Labyrinth](Labyrinth.png)
 
 ## Customization
 The 'LabTiles' folder contains all the necessary tile images. You can change them to your liking and even change the size but make sure that the aspect ratio remains square and that all tiles have the exact same size. Don't change the images' names, as they indicate the orientation and if the tile is a tunnel or not (T = tunnel, N = north, E = east, S = south, W = west (in that order)).
